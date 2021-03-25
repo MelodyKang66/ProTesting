@@ -39,4 +39,3 @@ class TestDemo2:
 
 if __name__=='__main__':
     pytest.main("-v -x TestDemo1")
-    pytest.main(['-v','-s','TestDemo1'])
